@@ -1,1 +1,1 @@
-# Kosmos-Script-Menu
+# KosmosUniverse-Script
