@@ -11,6 +11,8 @@ You can download kosmosclup by cloning the Git Repo and simply installing its re
 #Thank you for using KOOMPI.
 
 # Scripts that available right now :
+```sh
   1: ClearUP  (Unter maintenance)
   2: Kosmos-Softcut (Completed) ==> Let people make any shortcut they want on the terminal :P
   3: Autoupdate  (Unter maintenance)
+```
