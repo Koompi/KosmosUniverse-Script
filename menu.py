@@ -26,7 +26,7 @@ for i in Text:
     print(i,end="")
     time.sleep(0.1)
 #MENU
-menuList=["ClearUP","Kosmos-Softcut","Autoupdate"]
+menuList=["ClearUP","kosmos-shortcut","Autoupdate"]
 index = 1
 for i in menuList:
     print(index,"=>", i)
@@ -34,7 +34,7 @@ for i in menuList:
     time.sleep(0.1)
 option = int(input("Enter any option you want as number in row :"))
 if option == 2 : 
-    subprocess.call(['./kosmos-softcut.sh'])
+    subprocess.call(['./kosmos-shortcut.sh'])
 if option == 1:
     print("This program are not unavailable at the moment :(")
 if option == 3:
